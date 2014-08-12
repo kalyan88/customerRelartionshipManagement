@@ -1,0 +1,47 @@
+8
+
+dir
+7433
+http://newideas:81/svn/Idealabs2009/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/struts
+http://newideas:81/svn/Idealabs2009
+
+
+
+2009-03-27T17:46:53.453125Z
+5605
+crmshopping
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ef27e667-7ac1-9241-b54c-1f779274d8b7
+
+form
+dir
+
+ApplicationResources.properties
+file
+
+
+
+
+2009-04-16T05:58:18.000000Z
+5f8b0955848ff74b5949b94931bb4e89
+2009-03-16T13:01:25.625000Z
+2995
+crmshopping
+has-props
+
+action
+dir
+

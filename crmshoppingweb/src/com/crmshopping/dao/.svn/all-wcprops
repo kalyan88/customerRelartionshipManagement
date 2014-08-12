@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Idealabs2009/!svn/ver/5596/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao
+END
+CategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Idealabs2009/!svn/ver/3860/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/CategoryDao.java
+END
+PaymentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Idealabs2009/!svn/ver/3860/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/PaymentDao.java
+END
+AgentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Idealabs2009/!svn/ver/2810/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/AgentDao.java
+END
+OrdersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Idealabs2009/!svn/ver/3860/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/OrdersDao.java
+END
+ProductDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Idealabs2009/!svn/ver/4888/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/ProductDao.java
+END
+CustomerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Idealabs2009/!svn/ver/5596/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/CustomerDao.java
+END
+LanguageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Idealabs2009/!svn/ver/3860/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/LanguageDao.java
+END
+SchemeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Idealabs2009/!svn/ver/3860/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dao/SchemeDao.java
+END

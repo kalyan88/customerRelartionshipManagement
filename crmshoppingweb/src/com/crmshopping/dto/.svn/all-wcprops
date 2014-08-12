@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Idealabs2009/!svn/ver/3860/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto
+END
+Agentproduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Idealabs2009/!svn/ver/2263/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Agentproduct.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Idealabs2009/!svn/ver/3860/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Product.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Idealabs2009/!svn/ver/2266/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Customer.java
+END
+Agentlanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Idealabs2009/!svn/ver/2263/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Agentlanguage.java
+END
+Paymentmode.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Idealabs2009/!svn/ver/2263/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Paymentmode.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Idealabs2009/!svn/ver/2263/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Language.java
+END
+Scheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Idealabs2009/!svn/ver/2555/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Scheme.java
+END
+Customerlanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Idealabs2009/!svn/ver/2263/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Customerlanguage.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Idealabs2009/!svn/ver/2995/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Category.java
+END
+Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Idealabs2009/!svn/ver/2505/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Payment.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Idealabs2009/!svn/ver/2505/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Agent.java
+END
+Orders.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Idealabs2009/!svn/ver/2555/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/dto/Orders.java
+END

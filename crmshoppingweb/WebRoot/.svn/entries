@@ -1,0 +1,92 @@
+8
+
+dir
+7433
+http://newideas:81/svn/Idealabs2009/trunk/crmshopping/crmshoppingweb/WebRoot
+http://newideas:81/svn/Idealabs2009
+
+
+
+2009-03-27T18:04:55.343750Z
+5610
+crmshopping
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ef27e667-7ac1-9241-b54c-1f779274d8b7
+
+META-INF
+dir
+
+index.jsp
+file
+
+
+
+
+2009-04-16T05:58:16.000000Z
+17e7668279ff5e9ddfff2771bbd80ed8
+2009-03-27T18:04:55.343750Z
+5610
+crmshopping
+has-props
+
+images
+dir
+
+registration.jsp
+file
+
+
+
+
+2009-04-16T05:58:16.000000Z
+4e22e6a359c8a174895fd1c11f20c9d3
+2009-03-27T16:10:39.734375Z
+5596
+crmshopping
+has-props
+
+welcome.jsp
+file
+
+
+
+
+2009-04-16T05:58:16.000000Z
+1f1808d53fefd934caa06bbb1ef51486
+2009-03-21T13:23:09.546875Z
+4440
+crmshopping
+has-props
+
+WEB-INF
+dir
+
+css
+dir
+
+product.jsp
+file
+
+
+
+
+2009-04-16T05:58:16.000000Z
+09611f8b09111da47186f3551fc11864
+2009-03-23T19:29:49.015625Z
+4932
+crmshopping
+has-props
+

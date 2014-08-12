@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Idealabs2009/!svn/ver/5596/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/util
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Idealabs2009/!svn/ver/2505/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/util/Utils.java
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Idealabs2009/!svn/ver/5596/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/util/ConnectionFactory.java
+END
+DataAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Idealabs2009/!svn/ver/2995/trunk/crmshopping/crmshoppingweb/src/com/crmshopping/util/DataAccessException.java
+END

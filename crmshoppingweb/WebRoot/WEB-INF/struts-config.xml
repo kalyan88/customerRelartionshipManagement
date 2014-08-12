@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts-config PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN" "http://struts.apache.org/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+  <data-sources />
+  <form-beans >
+    <form-bean name="categoryForm" type="com.crmshopping.struts.form.CategoryForm" />
+    <form-bean name="customerForm" type="com.crmshopping.struts.form.CustomerForm" />
+    <form-bean name="productForm" type="com.crmshopping.struts.form.ProductForm" />
+
+  </form-beans>
+
+  <global-exceptions />
+  <global-forwards>
+  	<forward name="index" path = "/index.jsp" />
+  	<forward name="welcome" path = "/welcome.jsp" />  	
+  	<forward name="product" path = "/product.jsp" />  
+  	<forward name="registration" path = "/registration.jsp" />
+  </global-forwards>
+  <action-mappings >
+    <action
+      attribute="categoryForm"
+      name="categoryForm"
+      parameter="actionMethod"
+      path="/category"
+      scope="request"
+      type="com.crmshopping.struts.action.CategoryAction"
+      validate="false" />
+    <action
+      attribute="customerForm"
+      name="customerForm"
+      parameter="action"
+      path="/customer"
+      scope="request"
+      type="com.crmshopping.struts.action.CustomerAction"
+      validate="false" />
+    <action
+      attribute="productForm"
+      input="/form/product.jsp"
+      name="productForm"
+      parameter="action"
+      path="/product"
+      scope="request"
+      type="com.crmshopping.struts.action.ProductAction" />
+
+  </action-mappings>
+
+  <message-resources parameter="com.crmshopping.struts.ApplicationResources" />
+</struts-config>
+
